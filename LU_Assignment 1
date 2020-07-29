@@ -1,15 +1,18 @@
-Q1.What is Python ?
-Python is an Interpreted, Object-oriented, High level programming language with a simple syntax.it is also called as a 'scripting language'. it is interactive and efficient. It was created by Guido van Rossum and released in 1991.
+Q1. What is Python ?
+Python is an Interpreted, Object-oriented, High level programming language with a simple syntax.it is also called as a 'scripting language'.
+it is interactive and efficient. It was created by Guido van Rossum and released in 1991.
 It is used for web development, software development, system scripting etc.
 
-Ways to install Python on PC:
-	- The latest version of Python can be download directly by going to python.org or we can install Anaconda Software from Anaconda.com which also includes additional (500+) libraries along with Python.
+>> Ways to install Python on PC:
+	- The latest version of Python can be download directly by going to python.org or we can install Anaconda Software from Anaconda.com
+	  which also includes additional (500+) libraries along with Python.
 	- Python is pre-installed on almost every Unix system, including Linux and MAC.
 
-Q2.What is Code Environment?
-Code Environment is a place where one can write /edit the code ,compile the code ,see the performance  of the code and see the output of the code together. It is a standalone and self-contained environment to run the code and each code environment has its own set of packages.
+Q2. What is Code Environment?
+Code Environment is a place where one can write /edit the code ,compile the code ,see the performance of the code and see the output of the code together. 
+It is a standalone and self-contained environment to run the code and each code environment has its own set of packages.
 
-The code environment types are:
+>> The Code Environment types are:
 1.Text Editors - Virtual Studio ,Notepad++, Atom
 2.Full IDE's - Pycharm, Spyder
 3.Notebook Environment - Jupyter notebook
